@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1007fe8-9340-48f2-a387-2a0a2229b460" name="Changes" comment="" />
+    <list default="true" id="29b719ca-ee56-4580-af9f-a55874ff320f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-generics/src/main/java/org/example/tasks/BaseballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/org/example/tasks/BaseballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-generics/src/main/java/org/example/tasks/FootballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/org/example/tasks/FootballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-generics/src/main/java/org/example/tasks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/org/example/tasks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-generics/src/main/java/org/example/tasks/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/org/example/tasks/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-generics/src/main/java/org/example/tasks/SoccerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/org/example/tasks/SoccerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-generics/src/main/java/org/example/tasks/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/org/example/tasks/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,37 +26,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2DXVChWmuaMJmxWkaQuhpmO9JF0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
-    <option name="showVisibilityIcons" value="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
-  },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
-    ]
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="d1007fe8-9340-48f2-a387-2a0a2229b460" name="Changes" comment="" />
-      <created>1660845292719</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1660845292719</updated>
-    </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <confirmMoveToFailedCommit value="0" />
   </component>
 </project>
